@@ -1,5 +1,5 @@
 @ECHO OFF
-
+#20131120 王黎明
 REM Command file for Sphinx documentation
 
 if "%SPHINXBUILD%" == "" (
